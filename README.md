@@ -1,1 +1,1 @@
-# Math-Example
+all math method()
